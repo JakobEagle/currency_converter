@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/jakob-adler/c++/currency_converter/currency_converter/build",
+  "command": "/usr/bin/c++  -I/home/jakob-adler/c++/currency_converter/currency_converter/include -g -std=gnu++23 -o CMakeFiles/currency_converter.dir/src/main.cpp.o -c /home/jakob-adler/c++/currency_converter/currency_converter/src/main.cpp",
+  "file": "/home/jakob-adler/c++/currency_converter/currency_converter/src/main.cpp",
+  "output": "CMakeFiles/currency_converter.dir/src/main.cpp.o"
+}
+]
