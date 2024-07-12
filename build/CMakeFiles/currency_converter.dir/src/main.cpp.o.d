@@ -1,7 +1,7 @@
 CMakeFiles/currency_converter.dir/src/main.cpp.o: \
  /home/jakob-adler/c++/currency_converter/currency_converter/src/main.cpp \
  /usr/include/stdc-predef.h \
- /home/jakob-adler/c++/currency_converter/currency_converter/src/../include/root_certificates.hpp \
+ /home/jakob-adler/c++/currency_converter/currency_converter/src/../include/currency_converter/root_certificates.hpp \
  /usr/include/boost/asio/ssl.hpp /usr/include/boost/asio/ssl/context.hpp \
  /usr/include/boost/asio/detail/config.hpp /usr/include/boost/config.hpp \
  /usr/include/boost/config/user.hpp \
@@ -881,8 +881,8 @@ CMakeFiles/currency_converter.dir/src/main.cpp.o: \
  /usr/include/boost/asio/ssl/detail/read_op.hpp \
  /usr/include/boost/asio/ssl/detail/shutdown_op.hpp \
  /usr/include/boost/asio/ssl/detail/write_op.hpp \
- /home/jakob-adler/c++/currency_converter/currency_converter/src/../include/client.hpp \
- /home/jakob-adler/c++/currency_converter/currency_converter/src/../include/./root_certificates.hpp \
+ /home/jakob-adler/c++/currency_converter/currency_converter/src/../include/currency_converter/client.hpp \
+ /home/jakob-adler/c++/currency_converter/currency_converter/src/../include/currency_converter/./root_certificates.hpp \
  /usr/include/c++/13/iostream /usr/include/boost/beast/core.hpp \
  /usr/include/boost/beast/core/detail/config.hpp \
  /usr/include/boost/core/ignore_unused.hpp \

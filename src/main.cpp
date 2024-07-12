@@ -1,16 +1,15 @@
-#include "../include/root_certificates.hpp"
-#include "../include/client.hpp"
+#include "../include/currency_converter/root_certificates.hpp"
+#include "../include/currency_converter/client.hpp"
 
 #include <iostream>
 #include <string>
-
 
 int main(int argc, char const *argv[])
 {
 
     try
     {
-        Client client;
+        Client::Client client;
 
         client.write();
         client.read();

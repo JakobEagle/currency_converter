@@ -3,7 +3,9 @@
 
 CMakeFiles/currency_converter.dir/src/main.cpp.o
  /home/jakob-adler/c++/currency_converter/currency_converter/src/main.cpp
- /home/jakob-adler/c++/currency_converter/currency_converter/include/root_certificates.hpp
+ /home/jakob-adler/c++/currency_converter/currency_converter/include/currency_converter/root_certificates.hpp
+ /home/jakob-adler/c++/currency_converter/currency_converter/include/currency_converter/client.hpp
+ /home/jakob-adler/c++/currency_converter/currency_converter/include/currency_converter/root_certificates.hpp
  /usr/include/alloca.h
  /usr/include/arpa/inet.h
  /usr/include/asm-generic/bitsperlong.h
