@@ -1,3 +1,0 @@
-/home/jakob-adler/c++/currency_converter/currency_converter/build/CMakeFiles/currency_converter.dir
-/home/jakob-adler/c++/currency_converter/currency_converter/build/CMakeFiles/edit_cache.dir
-/home/jakob-adler/c++/currency_converter/currency_converter/build/CMakeFiles/rebuild_cache.dir
